@@ -6,8 +6,8 @@ import os
 import uvicorn
 
 # Bot tokeni va chat ID muhit o'zgaruvchilaridan olinadi
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TOKEN = os.getenv("7598055697:AAHimQmvY1N0BEUT0T68FJiIct8VkIWuYCc")
+CHAT_ID = os.getenv("5728779626")
 
 # FastAPI ilovasini yaratish
 app = FastAPI()
